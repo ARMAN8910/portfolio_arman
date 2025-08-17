@@ -6,6 +6,10 @@ It is built with modern web technologies, featuring responsive design, smooth na
 
 ---
 
+
+https://github.com/user-attachments/assets/c05f1635-924d-481f-b08a-49cedb8bd450
+
+
 ## 🚀 Tech Stack
 
 - **HTML5** – Website structure  
