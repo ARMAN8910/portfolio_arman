@@ -1,12 +1,52 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my portfolio!  
+This website showcases my projects, skills, and experience as a developer.  
+It is built with modern web technologies, featuring responsive design, smooth navigation, and interactive 3D elements.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **HTML5** – Website structure  
+- **CSS3 / Tailwind CSS** – Styling and responsive design  
+- **JavaScript (ES6+)** – Core scripting  
+- **React.js** – Component-based UI development  
+- **React Router** – Seamless page navigation  
+- **Three.js** – Interactive 3D effects and animations  
+- **Flaticon** – Logos and icons  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🎨 **Modern UI/UX** with Tailwind CSS  
+- 📱 **Fully responsive** design for all devices  
+- 🔗 **Smooth navigation** using React Router  
+- 🌀 **3D elements** powered by Three.js  
+- ⚡ **Reusable React components** for easy scalability  
+- 🖼️ **Icon support** using Flaticon  
+
+---
+
+## 🔗 Live Demo
+
+👉 [View Portfolio Website](https://your-portfolio-link.com)  
+*(Replace with your deployed site: GitHub Pages, Netlify, or Vercel)*  
+
+---
+
+## 📂 Project Structure
+
+```bash
+portfolio/
+│-- public/             # Static assets
+│-- src/
+│   ├── components/     # Reusable React components
+│   ├── pages/          # Pages (Home, Projects, About, Contact)
+│   ├── assets/         # Images, icons, media (Flaticon)
+│   ├── App.js          # Main app with router setup
+│   └── index.js        # Entry point
+│-- package.json
+│-- tailwind.config.js
+│-- README.md
